@@ -1,6 +1,5 @@
 # flutter_cam
-
-A new Flutter application.
+Flutter App to use image picker
 
 ## Getting Started
 
